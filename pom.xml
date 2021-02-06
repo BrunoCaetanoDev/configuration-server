@@ -10,11 +10,11 @@
 	</parent>
 	<groupId>com.bruno.caetano.dev</groupId>
 	<artifactId>configuration-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>configuration-server</name>
 	<description>A small service which hosts the various MS configurations required within the E-Commerce project via Spring-Cloud-Config.</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 		<spring-cloud.version>2020.0.0</spring-cloud.version>
 		<docker.registry>brunocaetanodev</docker.registry>
 	</properties>
